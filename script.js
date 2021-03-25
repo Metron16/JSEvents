@@ -14,3 +14,15 @@ ha betöltött.
 meg 3 tulajdonságot JS-ből.
 */
 
+
+// 1. feladat
+function nevkiiras()
+{
+    var a = document.getElementById("result")
+    let nev = prompt("Kérem adja meg a nevét!")
+    a.innerHTML = "Üdvözöllek " + nev + "!" 
+}
+
+
+// 2. feladat
+
