@@ -6,6 +6,7 @@ felugró ablakban, majd írd ki egy p tag-be,
 
 2. Illessz be egy tetszőleges képet, és hozz 
 létre egy eseményt.
+(HTML-ben)
 
 3. Az oldal betöltését ellenőrizd, és üzenj a konzolon, 
 ha betöltött.
@@ -23,6 +24,4 @@ function nevkiiras()
     a.innerHTML = "Üdvözöllek " + nev + "!" 
 }
 
-
-// 2. feladat
 
