@@ -16,7 +16,7 @@ meg 3 tulajdonságot JS-ből.
 */
 
 
-// 1. feladat
+// 1. Feladat
 function nevkiiras()
 {
     var a = document.getElementById("result")
@@ -30,3 +30,16 @@ function betoltott_e()
     console.log("Az oldal teljesen betőltött!")
 }
 
+// 4. Feladat
+function bg_textcolor()
+{
+    var b = document.getElementById("result2")
+    b.style.backgroundColor = "red"
+    b.style.color = "white"
+}
+
+function bold()
+{
+    var c = document.getElementById("result2")
+    c.style.fontWeight = "bold"
+}
