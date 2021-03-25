@@ -24,4 +24,9 @@ function nevkiiras()
     a.innerHTML = "Üdvözöllek " + nev + "!" 
 }
 
+// 3. Feladat
+function betoltott_e()
+{
+    console.log("Az oldal teljesen betőltött!")
+}
 
